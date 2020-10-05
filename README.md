@@ -1,2 +1,2 @@
 # firstproject
-welcome to bython prject
+welcome to bython project
